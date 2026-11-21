@@ -23,6 +23,8 @@ Phát hiện sớm học sinh có nguy cơ không đạt giúp giáo viên can t
 ## Nội dung theo Bài thực hành 4
 | Yêu cầu | Nằm ở đâu |
 |---|---|
+| **YC2 – Poster khoa học A0**: tóm tắt bài báo *Predicting Student Dropout and Academic Success* của V. Realinho, J. Machado, L. Baptista, M. V. Martins (Data, 2022, doi:10.3390/data7110146) | [`docs/poster/`](docs/poster/) – mã LaTeX, [PDF xem trước](docs/poster/poster-xem-truoc.pdf), script vẽ lại biểu đồ từ dữ liệu gốc |
+| **YC3 – Video nhóm** (cùng nội dung với poster) | [`docs/video/`](docs/video/) – kịch bản và phụ đề |
 | **YC4 – Bản quyền nội dung số**: repo có README, cấu trúc thư mục, LICENSE (MIT), CONTRIBUTING.md, CITATION.cff | Thư mục gốc của repo |
 | **YC4 – Báo cáo so sánh 3 giấy phép** GPL (GNU Bash), MIT (React), Apache 2.0 (TensorFlow) | [`docs/license-report/`](docs/license-report/) – mã LaTeX (Overleaf) và [PDF](docs/license-report/bao-cao-so-sanh-giay-phep.pdf) |
 | **YC5 – Đọc CSV → sinh báo cáo PDF** (cá nhân) | [`src/csv_to_pdf.py`](src/csv_to_pdf.py) → [`results/csv_report.pdf`](results/csv_report.pdf) |
