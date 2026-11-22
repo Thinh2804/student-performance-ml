@@ -38,10 +38,14 @@ Video dùng chung nội dung, màu sắc và hình ảnh với poster YC2. Các 
 5. Xuất MP4 1080p, kiểm tra ≤ 3:00, tải lên YouTube (Unlisted) hoặc Google Drive.
 6. **Ghi nguồn** ở cuối video hoặc phần mô tả: tên bài báo, 4 tác giả, DOI, giấy phép CC BY 4.0.
 
-## Phân công
-| Việc | Người | Hạn |
+## Phân công trong một buổi (tổng 4 tiếng)
+Cả nhóm làm cùng một buổi, ghi âm và dựng video ngay tại chỗ.
+
+| Thời gian trong buổi | Việc | Người |
 |---|---|---|
-| Ghi âm cảnh 1–2 | Phạm Lê Trường Thịnh | Ngày 1 |
-| Ghi âm cảnh 3–4 | Châu Thanh Mẫn | Ngày 1 |
-| Ghi âm cảnh 5–6, dựng video trên Canva, gắn phụ đề | Ôn Cẩm Liên | Ngày 2–3 |
-| Xem lại, góp ý, xuất bản | Cả nhóm | Ngày 4 |
+| 0:00 – 0:30 | Đọc kịch bản, thống nhất lời thoại, chia phần nói | Cả nhóm |
+| 0:30 – 1:15 | Ghi âm: mỗi người ghi phần của mình ở chỗ yên tĩnh, ghi 2–3 lần chọn bản tốt nhất | Thịnh (cảnh 1–2), Mẫn (cảnh 3–4), Liên (cảnh 5–6) |
+| 1:15 – 2:30 | Dựng trên Canva: nhập slide, ghép giọng đọc, đặt thời lượng từng trang, hiệu ứng | Liên (chính), Thịnh (hỗ trợ) |
+| 1:15 – 2:30 | Chuẩn bị phụ đề từ `phu-de.srt`, chọn nhạc nền | Mẫn |
+| 2:30 – 3:15 | Gắn phụ đề và nhạc nền (10–15%), cắt cho tổng thời lượng ≤ 3:00 | Liên, Mẫn |
+| 3:15 – 4:00 | Cả nhóm xem lại, sửa lỗi, xuất MP4 1080p, tải lên và ghi nguồn | Cả nhóm |
